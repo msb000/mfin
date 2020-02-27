@@ -1,0 +1,13 @@
+1. Una vex copiado y pulleado el git, entrar a consola: 
+
+docker exec -it master bash
+root@588acf96a879:/app# pyspark
+
+
+2. 
+
+file = spark.read.text("/datos/data_stocks.txt")
+
+
+3.  
+O Notebook stocks_1.ipynb
