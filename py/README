@@ -1,5 +1,6 @@
 1) 
-stocks_1.ipynb es un modelo con Tensorflow entrenado sobre datos del archivo "data_stocks.csv", descargado de Kaggle y que fue compartido a traves de Google Drive. Este dataset tambien podria ser analizado desde la consola de Spark.
+stocks_1.ipynb es un modelo con Tensorflow entrenado sobre datos del archivo "data_stocks.csv", descargado de Kaggle y cuyo link a Google Drive es https://drive.google.com/file/d/1bQwdpDUzZFZi-4OJ3D0yDfhI9odQZkKa/view?usp=sharing.
+Este dataset tambien podria ser analizado desde la consola de Spark.
 
 Codigo en Databricks para "data_stocks.csv": https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5800877486955406/2422439257017272/6527475355155485/latest.html
 
